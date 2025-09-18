@@ -25,7 +25,8 @@ By the end of this module, you'll be able to:
 
 ### Step 1 (Foundation): "Remember" and "Understand"
 **Complete TryHackMe modules to learn fundamental concepts**
-- [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1) - Master basic navigation and file operations
+- [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1) - Master basic navigation and file operations <img width="465" height="212" alt="image" src="https://github.com/user-attachments/assets/f45b2faf-d243-44b6-86f6-f2d5e333c879" />
+
 - [Complete Questions 1-19 of Linux Journey](https://linuxjourney.com/lesson/the-shell) - Demonstrate an understanding of basic command line navigation commands 
 - [Windows Command Line](https://tryhackme.com/room/windowscommandline) - Learn Windows-specific commands
 - [Windows Fundamentals Part 1](https://tryhackme.com/room/windowsfundamentals1xbx) - Understand Windows system basics
